@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello, I’m David 👋
 
-<!--
-**davidwobido/davidwobido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Ready for new challenges to shape digitalization as a Front-End Developer. With a flair for good design, the motivation to learn new things and the interest to develop relevant products together.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+💻 &nbsp; &nbsp;Currently working on &nbsp;<a href="https://github.com/davidwobido/festival-filter" target="blank"><img src="https://davidwobido.de/img/FF_Logo_large.svg" alt="Festival Filter"  width="120" /></a><br>
+
+📚 &nbsp; &nbsp;Recently completed a Web Dev bootcamp @ [neuefische](https://www.neuefische.de/en)
+<br>
+〇 &nbsp; &nbsp;Worked as a Senior Designer before
+<br>
+🌟 &nbsp; &nbsp;Part of [SUPERSUPERERROR](https://www.supersupererror.works/)
+<br>
+👀 &nbsp; &nbsp;Looking for a job as a Junior
+Front-End Developer in Berlin<br>
+📫 &nbsp; &nbsp;Contact me@davidwobido.de
+<br>
+<br>
+
+**Let’s connect:** &nbsp; &nbsp;<a href="https://www.linkedin.com/in/davidwobido/">LinkedIn</a> &nbsp; • &nbsp; <a href="https://www.xing.com/profile/David_Wobido/cv">Xing</a> &nbsp; • &nbsp; <a href="https://open.spotify.com/user/1122971697">Spotify</a> &nbsp; • &nbsp; <a href="https://www.last.fm/de/user/wobe_teh_Onsk"> Last.fm
