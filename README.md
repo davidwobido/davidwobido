@@ -3,7 +3,7 @@
 <br>
 
 Ready for new challenges to shape digitalization as a Front-End Developer.<br>
-With a flair for good design, the motivation to learn new things and <br>the interest to develop relevant products together.
+With a flair for good design, the motivation to learn new things and the interest to develop relevant products together.
 <br>
 
 <br>
