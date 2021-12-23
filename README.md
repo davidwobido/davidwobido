@@ -7,17 +7,17 @@ With a flair for good design, the motivation to learn new things and the interes
 <br>
 
 <br>
-💻 &nbsp; &nbsp;Currently working on &nbsp;<a href="https://github.com/davidwobido/festival-filter" target="blank"><img src="https://davidwobido.de/img/FF_Logo_large.svg" alt="Festival Filter"  width="120" /></a><br>
+💻 &nbsp; Currently working on &nbsp;<a href="https://github.com/davidwobido/festival-filter" target="blank"><img src="https://davidwobido.de/img/FF_Logo_large.svg" alt="Festival Filter"  width="120" /></a><br>
 
-📚 &nbsp; &nbsp;Recently completed a Web Dev bootcamp @ [neuefische](https://www.neuefische.de/en)
+📚 &nbsp; Recently completed a Web Dev bootcamp @ [neuefische](https://www.neuefische.de/en)
 <br>
 〇 &nbsp; &nbsp;Worked as a Senior Designer before
 <br>
-🌟 &nbsp; &nbsp;Part of [SUPERSUPERERROR](https://www.supersupererror.works/)
+🌟 &nbsp; Part of [SUPERSUPERERROR](https://www.supersupererror.works/)
 <br>
-👀 &nbsp; &nbsp;Looking for a job as a Junior
+👀 &nbsp; Looking for a job as a Junior
 Front-End Developer in Berlin<br>
-📫 &nbsp; &nbsp;Contact me@davidwobido.de
+📫 &nbsp; Contact me@davidwobido.de
 <br>
 <br>
 
