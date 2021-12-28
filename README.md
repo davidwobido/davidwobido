@@ -11,7 +11,7 @@ With a flair for good design, the motivation to learn new things and the interes
 
 📚 &nbsp; Recently completed a Web Dev bootcamp @ [neuefische](https://www.neuefische.de/en)
 <br>
-〇 &nbsp; Worked as a Senior Designer before
+〇 &nbsp;&nbsp; Worked as a Senior Designer before
 <br>
 🌟 &nbsp; Part of [SUPERSUPERERROR](https://www.supersupererror.works/)
 <br>
