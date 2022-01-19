@@ -16,7 +16,7 @@ With a flair for good design, the motivation to learn new things and the interes
 🌟 &nbsp; Part of [SUPERSUPERERROR](https://www.supersupererror.works/)
 <br>
 👀 &nbsp; Looking for a job as a Junior
-Front-End Developer in Berlin<br>
+Frontend Developer in Berlin<br>
 📫 &nbsp; Contact me@davidwobido.de
 <br>
 <br>
