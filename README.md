@@ -16,4 +16,4 @@ With a flair for good design, the motivation to learn new things and the interes
 🌍 &nbsp; <a href="https://www.davidwobido.de"> davidwobido.de</a>
 <br>
 <br>
-**Let’s connect:** &nbsp; &nbsp;<a href="https://www.linkedin.com/in/davidwobido/">LinkedIn</a> &nbsp; • &nbsp; <a href="https://www.xing.com/profile/David_Wobido/cv">Xing</a> &nbsp; • &nbsp; <a href="https://open.spotify.com/user/1122971697">Spotify</a> &nbsp; • &nbsp; <a href="https://www.last.fm/de/user/wobe_teh_Onsk"> Last.fm
+**Let’s connect:** &nbsp; &nbsp;<a href="https://www.linkedin.com/in/davidwobido/">LinkedIn</a> &nbsp; • &nbsp; <a href="https://open.spotify.com/user/1122971697">Spotify</a> &nbsp; • &nbsp; <a href="https://www.last.fm/de/user/wobe_teh_Onsk"> Last.fm
